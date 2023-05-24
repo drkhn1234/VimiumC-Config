@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "5/25/2023, 1:02:08 AM",
-	"time": 1684965728470,
+	"@time": "5/25/2023, 1:24:00 AM",
+	"time": 1684967040764,
 	"environment": {
 		"extension": "1.99.991",
 		"platform": "mac",
@@ -67,8 +67,8 @@
 		"# Tab Operations",
 		"map yy copyCurrentUrl",
 		"map yt duplicateTab",
-		"map X removeTab goto=\"left\"",
-		"map x removeTab goto=\"next\"",
+		"map x removeTab goto=\"left\"",
+		"map X removeTab goto=\"next\"",
 		"map Z restoreGivenTab",
 		"map <a-p> togglePinTab",
 		"map e moveTabToNextWindow",
